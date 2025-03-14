@@ -1,60 +1,111 @@
-# 📊**Professional Portfolio**
+<h1>📊 Professional Portfolio</h1>
 
-## 🔍 About Me  
-Welcome! I am a **data analyst transitioning from a career in public sector insurance** with **11 years of experience** in **claims auditing, medical billing, and claims reimbursement analysis**. My expertise includes **data auditing, SQL querying, Power BI visualization, and process automation** to drive efficiency and compliance in healthcare data management.
+<h2>🔍 About Me</h2>
+<p>Welcome! I am a <strong>data analyst transitioning from a career in public sector insurance</strong> with <strong>11 years of experience</strong> in <strong>claims auditing, medical billing, and claims reimbursement analysis</strong>. 
+My expertise includes <strong>data auditing, SQL querying, Power BI visualization, and process automation</strong> to drive efficiency and compliance in healthcare data management.</p>
 
-I am actively seeking **data analyst positions** where I can leverage my skills in **data transformation, business intelligence, and statistical analysis** to generate meaningful insights. This portfolio highlights my technical projects in **medical claims analytics, fraud detection, and financial reporting**.
+<p>I am actively seeking <strong>data analyst positions</strong> where I can leverage my skills in <strong>data transformation, business intelligence, and statistical analysis</strong> to generate meaningful insights. 
+This portfolio highlights my technical projects in <strong>medical claims analytics, fraud detection, and financial reporting</strong>.</p>
 
----
+<hr>
 
-## 🛠 Skills & Technologies  
-- **Data Analytics & Auditing**: Claims auditing, medical billing, reimbursement and financial analysis  
-- **Data Management**: Microsoft Excel (PivotTables, VLOOKUP, Macros), Microsoft Access, SQL Server  
-- **Data Querying & Processing**: SQL, Excel Power Query  
-- **Business Intelligence & Reporting**: Power BI, Tableau, Excel Dashboards  
-- **Data Visualization**: Power BI, Tableau, Excel charts/graphs/pivot tables 
-- **Compliance & Process Improvement**: Florida Workers' Compensation Statutes and rules, ICD9/ICD10/CPT/HCPCS/Revenue codes  
+<h2>🛠 Skills & Technologies</h2>
+<ul>
+  <li><strong>Data Analytics & Auditing:</strong> Claims auditing, medical billing, reimbursement and financial analysis</li>
+  <li><strong>Data Management:</strong> Microsoft Excel (PivotTables, VLOOKUP, Macros), Microsoft Access, SQL Server</li>
+  <li><strong>Data Querying & Processing:</strong> SQL, Excel Power Query</li>
+  <li><strong>Business Intelligence & Reporting:</strong> Power BI, Tableau, Excel Dashboards</li>
+  <li><strong>Data Visualization:</strong> Power BI, Tableau, Excel Dashboards</li>
+  <li><strong>Compliance & Process Improvement:</strong> Florida Workers' Compensation Statutes and rules, ICD9/ICD10/CPT/HCPCS/Revenue codes</li>
+</ul>
 
----
+<hr>
 
-## 📂 Featured Projects  
+<h2>📂 Featured Projects</h2>
 
-### **1️⃣ Medical Claims Analytics & Fraud Detection**  
-**📌 Skills:** SQL, Access, Excel, Power BI, and Tableau   
-- **Objective:** Analyze medical billing claims for potential fraud and reimbursement trends.  
-- **Key Insights:** Identified **high-approval-rate providers**, **common denial reasons**, and **monthly claim trends**.  
-- **🔗 Repository (coming soon!):** [Medical Claims Fraud Detection](https://github.com/yourusername/medical-claims-analytics)  
+<h3>1️⃣ Medical Claims Analytics & Fraud Detection</h3>
+<p><strong>📌 Skills:</strong> SQL, Access, Excel, Power BI, and Tableau</p>
+<p><strong>Objective:</strong> Analyze medical billing claims for potential fraud and reimbursement trends.</p>
+<p><strong>Key Insights:</strong> Identified <strong>high-approval-rate providers</strong>, <strong>common denial reasons</strong>, and <strong>monthly claim trends</strong>.</p>
+<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/medical-claims-analytics">Medical Claims Fraud Detection</a></p>
 
-### **2️⃣ SQL-Based Healthcare Reimbursement Analysis**  
-**📌 Skills:** SQL Server, Data Normalization, Query Optimization  
-- **Objective:** Query a large dataset of healthcare reimbursements to identify **top-paid providers** and **reimbursement trends**.  
-- **Key Insights:** Extracted key metrics on **billing trends by provider specialty and region**.  
-- **🔗 Repository (coming soon!):** [SQL Healthcare Data Analysis](https://github.com/yourusername/sql-healthcare-analysis)  
+<h3>2️⃣ SQL-Based Healthcare Reimbursement Analysis</h3>
+<p><strong>📌 Skills:</strong> SQL Server, Data Normalization, and Query Optimization</p>
+<p><strong>Objective:</strong> Query a large dataset of healthcare reimbursements to identify <strong>top-paid providers</strong> and <strong>reimbursement trends</strong>.</p>
+<p><strong>Key Insights:</strong> Extracted key metrics on <strong>billing trends by provider specialty and region</strong>.</p>
+<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/sql-healthcare-analysis">SQL Healthcare Data Analysis</a></p>
 
-### **3️⃣ Power BI Medical Billing Dashboard**  
-**📌 Skills:** Power BI, Data Cleaning  
-- **Objective:** Build an interactive **claims processing and reimbursement trends dashboard**.  
-- **Key Insights:** Visualized **denial trends, provider billing patterns, and financial impact over time**.  
-- **🔗 Repository (coming soon!):** [Power BI Medical Dashboard](https://github.com/yourusername/powerbi-medical-dashboard)  
+<h3>3️⃣ Power BI Medical Billing Dashboard</h3>
+<p><strong>📌 Skills:</strong> Excel, Power BI, and Data Cleaning</p>
+<p><strong>Objective:</strong> Build an interactive <strong>claims processing and reimbursement trends dashboard</strong>.</p>
+<p><strong>Key Insights:</strong> Visualized <strong>denial trends, provider billing patterns, and financial impact over time</strong>.</p>
+<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/powerbi-medical-dashboard">Power BI Medical Dashboard</a></p>
 
----
+<hr>
 
-## 📊 Tools & Technologies in My Portfolio  
-| **Category**        | **Technologies** |
-|---------------------|-----------------|
-| **Programming & Querying** | SQL, Excel Power Query |
-| **Databases** | SQL Server, Microsoft Access |
-| **Data Visualization** | Power BI, Tableau, Excel |
-| **Business Tools** | Excel (PivotTables, Macros), Word, PowerPoint |
-| **ETL & Data Cleaning** | SQL Queries, Excel Data Processing |
+<h2>📊 Tools & Technologies in My Portfolio</h2>
 
----
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming & Querying</strong></td>
+    <td>SQL, Excel Power Query</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>SQL Server, Microsoft Access</td>
+  </tr>
+  <tr>
+    <td><strong>Data Visualization</strong></td>
+    <td>Power BI, Tableau, Excel Dashboards</td>
+  </tr>
+  <tr>
+    <td><strong>Business Tools</strong></td>
+    <td>Excel (PivotTables, Macros), Word, PowerPoint</td>
+  </tr>
+  <tr>
+    <td><strong>ETL & Data Cleaning</strong></td>
+    <td>SQL Queries, Excel Data Processing</td>
+  </tr>
+</table>
 
-## 🔗 Connect with Me  
-📧 **Email (coming soon!):** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn (coming soon!):** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-📂 **GitHub (coming soon!):** [github.com/yourusername](https://github.com/yourusername)  
+<hr>
 
----
+<h2>🎓Education and Certifications📜</h2>
 
-🚀 *Check out my projects and feel free to reach out for collaboration or professional opportunities!*  
+<table>
+  <tr>
+    <th>Institution</th>
+    <th>Degree/Certification Received</th>
+    <th>Primary Focus</th>
+  </tr>
+  <tr>
+    <td><strong>Florida State Univeristy</strong></td>
+    <td>B.S. Business Management - 2012</td>
+    <td>Learning major facets of managing a business (Finance, Marketing, HR, etc)</td>
+  </tr>
+  <tr>
+    <td><strong>Central Insurance School</strong></td>
+    <td>Professional Claims Adjuster Certificate - 2014</td>
+    <td>Developing necessary skills to obtain a Florida 6-20 All-Lines Adjuster License </td>
+  </tr>
+  <tr>
+    <td><strong>edX - Harvard CS50X (in progress)</strong></td>
+    <td>Computer Science CS50X Certificate (anticipated completion: Dec 2025)</td>
+    <td>Develop working knowledge of GitHub, C, Arrays, Algorithms, Data Structures, Python, SQL, HTML, CSS, JavaScript, and FLASK </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🔗 Connect with Me</h2>
+<p>📧 <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
+<p>📂 <strong>GitHub:</strong> <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+
+<hr>
+
+<p>🚀 <em>Check out my projects and feel free to reach out for collaboration or professional opportunities!</em></p>
