@@ -21,28 +21,6 @@ This portfolio highlights my technical projects in <strong>medical claims analyt
 
 <hr>
 
-<h2>📂 Featured Projects</h2>
-
-<h3>1️⃣ Medical Claims Analytics & Fraud Detection</h3>
-<p><strong>📌 Skills:</strong> SQL, Access, Excel, Power BI, and Tableau</p>
-<p><strong>Objective:</strong> Analyze medical billing claims for potential fraud and reimbursement trends.</p>
-<p><strong>Key Insights:</strong> Identified <strong>high-approval-rate providers</strong>, <strong>common denial reasons</strong>, and <strong>monthly claim trends</strong>.</p>
-<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/medical-claims-analytics">Medical Claims Fraud Detection</a></p>
-
-<h3>2️⃣ SQL-Based Healthcare Reimbursement Analysis</h3>
-<p><strong>📌 Skills:</strong> SQL Server, Data Normalization, and Query Optimization</p>
-<p><strong>Objective:</strong> Query a large dataset of healthcare reimbursements to identify <strong>top-paid providers</strong> and <strong>reimbursement trends</strong>.</p>
-<p><strong>Key Insights:</strong> Extracted key metrics on <strong>billing trends by provider specialty and region</strong>.</p>
-<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/sql-healthcare-analysis">SQL Healthcare Data Analysis</a></p>
-
-<h3>3️⃣ Power BI Medical Billing Dashboard</h3>
-<p><strong>📌 Skills:</strong> Excel, Power BI, and Data Cleaning</p>
-<p><strong>Objective:</strong> Build an interactive <strong>claims processing and reimbursement trends dashboard</strong>.</p>
-<p><strong>Key Insights:</strong> Visualized <strong>denial trends, provider billing patterns, and financial impact over time</strong>.</p>
-<p><strong>🔗 Repository (coming soon!):</strong> <a href="https://github.com/yourusername/powerbi-medical-dashboard">Power BI Medical Dashboard</a></p>
-
-<hr>
-
 <h2>📊 Tools & Technologies in My Portfolio</h2>
 
 <table>
@@ -101,11 +79,11 @@ This portfolio highlights my technical projects in <strong>medical claims analyt
 
 <hr>
 
-<h2>🔗 Connect with Me</h2>
-<p>📧 <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
-<p>📂 <strong>GitHub:</strong> <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+<h2>🔗 Connect with Me!</h2>
+<p>📧 <strong>Email:</strong> <a href="mailto:Jarimert1@gmail.com">Jarimert1@gmail.com</a></p>
+<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/Jon-Rimert">LinkedIn.com/in/Jon-Rimert</a></p>
+<p>📂 <strong>GitHub:</strong> <a href="https://github.com/Jarimert1">Github.com/Jarimert1</a></p>
 
 <hr>
 
-<p>🚀 <em>Check out my projects and feel free to reach out for collaboration or professional opportunities!</em></p>
+<p>🚀 <em>Featured Projects section coming soon! Feel free to reach out for collaboration or professional opportunities!</em></p>
